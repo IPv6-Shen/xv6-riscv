@@ -1,0 +1,4 @@
+first lab of 6.1810
+spend most of the time reading xv6 book and debuging git
+across 1 month
+
